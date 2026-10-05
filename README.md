@@ -13,5 +13,3 @@ Example: width 4, 7+1 -> 1000, unsigned 8, signed -8. Signed sum 8 exceeds maxim
 ## Limits
 A fixed-width arithmetic teaching tool, not a full CPU emulator. No subtraction/bitwise operations yet. Python integers are arbitrary-precision, so wrapping is explicitly simulated. Report bit weights are unsigned; the leading weight would be negative in signed interpretation.
 
-## Your contributions
-Generated implementation. Record your own changes and verification here.
